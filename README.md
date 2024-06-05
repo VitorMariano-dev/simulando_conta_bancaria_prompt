@@ -1,6 +1,6 @@
 # Conta de Banco no terminal
 
-Neste projeto simulo pelo terminal o cliente craindo uma conta no Banco
+Neste projeto simulo pelo terminal o cliente criando uma conta no Banco
 
 Começa com o console solicitando as informações necessárias para abriar a conta e após ele fornecer tudo o necessário, o terminal print as informações passadas.
 
